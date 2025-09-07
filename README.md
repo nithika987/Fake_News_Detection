@@ -1,10 +1,7 @@
 # 📰 Fake News Detection using Deep Learning
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Framework-orange?logo=tensorflow&logoColor=white)  
-![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-brightgreen?logo=kaggle&logoColor=white)  
-![Status](https://img.shields.io/badge/Status-Completed-success?style=flat)  
-
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-Framework-orange?logo=tensorflow&logoColor=white) ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-brightgreen?logo=kaggle&logoColor=white) ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat)
+ 
 ---
 
 ## 📌 Overview  
