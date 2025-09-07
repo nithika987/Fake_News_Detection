@@ -91,5 +91,5 @@ Dataset used: [Fake News Detection Dataset](https://www.kaggle.com/datasets/emin
 ## ▶️ Usage
 ### 1️⃣ Clone repo
 ```bash
-git clone https://github.com/yourusername/fake-news-detection.git
-cd fake-news-detection
+git clone https://github.com/nithika987/Fake_News_Detection.git
+cd Fake_News_Detection
