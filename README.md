@@ -78,8 +78,13 @@ Dataset used: [Fake News Detection Dataset](https://www.kaggle.com/datasets/emin
 ---
 
 ## 📸 Sample Visualizations
-- 📊 Categorical distribution of Fake vs Real news  
+- 📊 Categorical distribution of Fake vs Real news
+
+ <img width="370" height="259" alt="image" src="https://github.com/user-attachments/assets/7d1f7739-77f2-4100-b356-312566f60c7b" />
+
 - 🧾 Confusion matrix for predictions  
+
+<img width="323" height="265" alt="image" src="https://github.com/user-attachments/assets/9eca73dc-f82b-4443-b49b-7fd8f9c3094f" />
 
 ---
 
